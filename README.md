@@ -12,7 +12,7 @@ Alternatively, the full repo containing the code for the web application can be 
 
 Upon loading the web application on your browser, you will be greeted with this screen. 
 
-![Application Screen](image.jpg)
+![Application Screen](./assets/images/mainScreen.png)
 
 On this page, you can see three columns. The first column shows the time, the second is where you can type in your appointments, and the third contains a button that allows you to save this appointment to your computer's local storage.
 
